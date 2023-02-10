@@ -1,0 +1,101 @@
+.w-200{
+    width: 200px;
+}
+
+.card-width {
+   width: 40%;
+   position:relative;
+}
+
+.flex-grow-3 {
+    flex-grow: 1; /* default 0 */
+  }
+
+.legend {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 2em;
+}
+.ml-10 {
+    /* margin-left: 3.6em; */
+    top: 0;
+    right: 0;
+}
+
+.status_card {
+    /* margin-left: 17em; */
+    position:absolute;
+     right: 8px; 
+     bottom: 8px;
+}
+.icon-card{
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+.card-body {
+    display: flex;
+}
+
+.title {
+    padding-left: 1em;
+    padding-top: 0.5em;
+    color: darkgray;
+}
+
+.close-btn{
+    position:absolute;
+     right: 6px; 
+     top:20px;
+     cursor: pointer;
+}
+
+.card-title {
+    display: flex;
+    cursor: pointer;
+    
+}
+
+.ml-50 {
+    margin-left: 500em;
+}
+.ml-15 {
+    margin-left: 2.3em;
+}
+
+.width-Card{
+    width: 25%;
+    position:relative;
+
+}
+.plan-floor{
+    marg
+}
+
+@media screen and (max-width: 1020px)
+{
+    .ml-50 {
+        margin-left: 0em;
+    }
+    .desck{
+        width: 5%;
+        height: 5%;
+    }
+    .card-title {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        cursor: pointer;
+        
+    }
+    .ml-15 {
+        margin-left: 0em;
+    }
+    .ml-20 {
+        margin-left: 0em;
+    }
+}
+
+

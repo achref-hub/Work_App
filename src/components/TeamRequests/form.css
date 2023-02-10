@@ -1,0 +1,42 @@
+.w-200{
+    width: 200px;
+}
+
+.card-width {
+   width: 40%;
+}
+
+.flex-grow-3 {
+    flex-grow: 1; /* default 0 */
+  }
+
+.legend {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 2em;
+}
+.ml-10 {
+    /* margin-left: 3.6em; */
+    top: 0;
+    right: 0;
+}
+
+.status_card {
+    margin-left: 17em;
+}
+.icon-card{
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+.card-body {
+    display: flex;
+}
+
+.title {
+    padding-left: 1em;
+    padding-top: 0.5em;
+    color: darkgray;
+}

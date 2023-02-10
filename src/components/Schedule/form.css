@@ -1,0 +1,17 @@
+.w-200{
+    width: 200px;
+}
+
+.pl-20{
+    margin-left: 1em;
+}
+.form{
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.header-form{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

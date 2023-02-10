@@ -1,0 +1,26 @@
+.w-200{
+    width: 200px;
+}
+
+.template-wrap {
+    /* padding-left: 20px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    padding-top: 7px;*/ 
+    font-size: 14px;
+    font-weight: 300;
+    /* height: 200px; */
+}
+.subject {
+    height: 100px;
+    padding-left: 20px;
+    padding-right: 5px;
+}
+.e-schedule .e-appointment-details {
+    padding: 0 !important;
+}
+
+.image {
+    width: 70%;
+    margin-left: 20px;
+}

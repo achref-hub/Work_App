@@ -1,0 +1,49 @@
+.w-200{
+    width: 200px;
+}
+
+.template-wrap {
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-top: 0; 
+    
+    /* height: 200px; */
+}
+.subject {
+    height: 20px;
+    padding-left: 20px;
+    padding-right: 5px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.e-schedule .e-appointment-details {
+    padding: 0 !important;
+}
+
+
+.image {
+    width: 40%;
+    margin-left: 60px;
+    margin-top: 15px;
+}
+
+.navbar-section {
+    position: absolute;
+    right: 0;
+    padding-right: 3em;
+    /* bottom: 0; */
+}
+
+.pt-100 {
+    padding-top: 5em;
+}
+
+.pb-100 {
+    padding-bottom: 13em;
+}
+
+.pr-3 {
+    padding-right: 3em;
+}
+
